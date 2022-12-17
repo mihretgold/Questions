@@ -1,6 +1,8 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
+// Write a program that prompts the user to enter a list and displays whether the list is sorted or not.
+
 public class Two {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
